@@ -1,3 +1,7 @@
+/**
+ * Copyright © 2020, The Koala Computer Company Limited.
+ * All Rights Reserved
+ */
 package ie.koala.lewis
 
 import androidx.test.platform.app.InstrumentationRegistry
